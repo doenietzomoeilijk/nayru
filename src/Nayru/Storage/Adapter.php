@@ -12,7 +12,7 @@ namespace Nayru\Storage;
 use \InvalidArgumentException;
 use \RuntimeException;
 use \UnexpectedValueException;
-use \Nayru\Validator\String;
+use \HylianShield\Validator\String;
 
 /**
  * Adapter.

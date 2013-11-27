@@ -12,10 +12,10 @@ namespace Nayru;
 use \InvalidArgumentException;
 use \LogicException;
 use \UnexpectedValueException;
-use \Nayru\Validator\CoreArray;
-use \Nayru\Validator\String;
-use \Nayru\Validator\CoreClass;
-use \Nayru\Validator\CoreClass\Method;
+use \HylianShield\Validator\CoreArray;
+use \HylianShield\Validator\String;
+use \HylianShield\Validator\CoreClass;
+use \HylianShield\Validator\CoreClass\Method;
 
 /**
  * ArrayObject.

@@ -16,7 +16,9 @@ require_once __DIR__ . '/Autoloader.php';
 $autoloader = new Autoloader(__DIR__ . '/../src');
 $autoloader->preload();
 
+$autoloader = new Autoloader(__DIR__ . '/../vendor/hylianshield/src');
+$autoloader->preload();
+
 // Sadly we can't let this be autoloaded, because if we were to apply an
 // autoloader to the Tests directory, PHPUnit would skip all loaded tests.
 require_once __DIR__ . '/Tests/Nayru/Serializer/TestBase.php';
-require_once __DIR__ . '/Tests/Nayru/Validator/TestBase.php';

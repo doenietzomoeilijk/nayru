@@ -50,12 +50,12 @@ class Configuration extends \Nayru\ArrayObject
     /**
      * Set a validator.
      *
-     * @param \Nayru\Validator $validator
+     * @param \HylianShield\Validator $validator
      * @param string $type
      * @return void
      * @throws \InvalidArgumentException when $type is not a string
      */
-    public function setValidator(\Nayru\Validator $validator, $type = null)
+    public function setValidator(\HylianShield\Validator $validator, $type = null)
     {
         if ($type !== null && !is_string($type)) {
             throw new InvalidArgumentException(

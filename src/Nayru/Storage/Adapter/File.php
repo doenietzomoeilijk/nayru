@@ -11,12 +11,12 @@ namespace Nayru\Storage\Adapter;
 
 use \InvalidArgumentException;
 use \RuntimeException;
-use \Nayru\Validator\Integer;
-use \Nayru\Validator\LogicalAnd;
-use \Nayru\Validator\String;
-use \Nayru\Validator\File\Exists;
-use \Nayru\Validator\File\Readable;
-use \Nayru\Validator\File\Writable;
+use \HylianShield\Validator\Integer;
+use \HylianShield\Validator\LogicalAnd;
+use \HylianShield\Validator\String;
+use \HylianShield\Validator\File\Exists;
+use \HylianShield\Validator\File\Readable;
+use \HylianShield\Validator\File\Writable;
 
 /**
  * File.

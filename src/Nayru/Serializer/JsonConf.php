@@ -11,8 +11,8 @@ namespace Nayru\Serializer;
 
 use \LogicException;
 use \RuntimeException;
-use \Nayru\Validator\CoreFunction;
-use \Nayru\Validator\String;
+use \HylianShield\Validator\CoreFunction;
+use \HylianShield\Validator\String;
 
 /**
  * JsonConf.
