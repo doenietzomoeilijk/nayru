@@ -1,0 +1,3 @@
+[submodule "vendor/hylianshield"]
+	path = vendor/hylianshield
+	url = git@github.com:johmanx10/hylianshield.git
