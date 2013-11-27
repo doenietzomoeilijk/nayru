@@ -1,4 +1,2 @@
-nayru
-=====
-
-Upholding the laws of your application
+# Nayru
+"Nayru... Poured out her wisdom onto the land, and gave it the spirit of law."
