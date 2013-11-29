@@ -1,0 +1,25 @@
+{
+  "name": "hylianshield/nayru",
+  "type": "library",
+  "version": "0.0.0",
+  "description": "Nayru... Poured out her wisdom onto the land, and gave it the spirit of law.",
+  "keywords": ["hylianshield", "nayru", "configuration", "validation", "serialization", "storage"],
+  "homepage": "https://github.com/johmanx10/nayru",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Jan-Marten de Boer",
+      "role": "Developer",
+      "email": "github@johmanx.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3",
+    "hylianshield/hylianshield": "dev-master"
+  },
+  "autoload": {
+    "psr-0": {
+      "Nayru": "src"
+    }
+  }
+}
