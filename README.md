@@ -1,5 +1,6 @@
-# Nayru [![Build Status](https://travis-ci.org/johmanx10/nayru.png?branch=master)](https://travis-ci.org/johmanx10/nayru)
+# Nayru
 
+[![Build Status](https://travis-ci.org/johmanx10/nayru.png?branch=master)](https://travis-ci.org/johmanx10/nayru)
 [![Latest Stable Version](https://poser.pugx.org/hylianshield/nayru/v/stable.png)](https://packagist.org/packages/hylianshield/nayru)
 [![Latest Unstable Version](https://poser.pugx.org/hylianshield/nayru/v/unstable.png)](https://packagist.org/packages/hylianshield/nayru)
 [![Total Downloads](https://poser.pugx.org/hylianshield/nayru/downloads.png)](https://packagist.org/packages/hylianshield/nayru)
